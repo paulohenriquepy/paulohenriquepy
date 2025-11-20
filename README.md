@@ -17,26 +17,24 @@ I am a **biologist** committed to bridging the gap between **academic knowledge*
 
 ---
 
-### 🛠 Technologies & Tools  
+## 🛠️ Technologies & Tools
 
-💡 **Core Libraries:**  
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F37626.svg?style=flat&logo=plotly&logoColor=white)  
+### 📚 Core Libraries
+- NumPy  
+- Pandas  
+- Matplotlib  
 
-🔍 **Web Scraping:**  
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%234B8BBE.svg?style=flat&logo=python&logoColor=white)  
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)  
-![Playwright](https://img.shields.io/badge/Playwright-%233A4C8B.svg?style=flat&logo=playwright&logoColor=white)  
+### 🔍 Web Scraping
+- BeautifulSoup  
+- Selenium  
+- Playwright  
 
-🤖 **Machine Learning:**  
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)  
-
----
-
-
+### 🌐 Web Development
+- Django  
+- JavaScript  
+- HTML  
+- CSS
+- 
 <p align="center">
   🚀 Always learning and exploring new technologies to tackle environmental and social challenges 🌱
 </p>
