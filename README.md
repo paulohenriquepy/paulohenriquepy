@@ -1,40 +1,54 @@
-<h1 align="center">Hello! I'm Paulo Henrique 🌎</h1>
+<h1 align="center">¡Hola! Soy Paulo Henrique 🌎</h1> <p align="center"> <strong>Biólogo | Científico de Datos | Desarrollador Django | Investigador Ambiental</strong> </p>
+🌱 Sobre mí
 
-<p align="center">
-  <strong>Biologist | Data Scientist | Environmental Researcher</strong>  
-</p>
+Soy biólogo con doctorado en Ciencias Ambientales y actualmente curso un Máster Profesional en Data Science & Business Analytics. Mi trabajo se centra en integrar conocimientos ecológicos con herramientas de análisis de datos, programación y aprendizaje automático para comprender y abordar desafíos ambientales y sociales contemporáneos.
 
----
+En los últimos años he desarrollado proyectos que combinan web scraping avanzado, machine learning, procesamiento de lenguaje natural (NLP) y desarrollo web con Django, siempre con un enfoque aplicado y orientado a problemas reales.
 
-### 🌱 About Me  
+🔬 Proyectos e intereses recientes
 
-I am a **biologist** committed to bridging the gap between **academic knowledge** and the **development of solutions** for environmental challenges. I hold a **Ph.D. in Environmental Sciences** and I am currently pursuing a **Professional Master's in Data Science and Business Analytics**.  
+📌 Análisis de medios y crisis climática
 
-📌 **Current Research:**  
-📊 I use **web scraping** and **sentiment analysis** to investigate how the press represents the **climate emergency**, focusing primarily on 🇺🇸 **the United States**, 🇨🇳 **China**, and 🇧🇷 **Brazil**.  
-📌 I also analyze topics such as **political authoritarianism**, **social dominance orientation**, and the **commercial, technological, and economic rivalry between China and the United States**.  
-📚 Additionally, I have been studying **communication theories**, particularly the **Elaboration Likelihood Model of Persuasion**.  
+Desarrollo de scrapers robustos (Selenium + BeautifulSoup) para medios de comunicación de EE.UU., China y Brasil.
 
----
+Aplicación de análisis de sentimientos (VADER, ClimateBERT, RoBERTa) para estudiar cómo distintos sistemas políticos representan la emergencia climática.
 
-## 🛠️ Technologies & Tools
+Comparación entre discursos periodísticos en democracias y regímenes autoritarios.
 
-### 📚 Core Libraries
-- NumPy  
-- Pandas  
-- Matplotlib  
+📌 Herramientas ambientales
 
-### 🔍 Web Scraping
-- BeautifulSoup  
-- Selenium  
-- Playwright  
+Desarrollo de la Calculadora TRIX (JavaScript), utilizada para estimar el estado trófico y el nivel de eutrofización en ecosistemas marinos.
 
-### 🌐 Web Development
-- Django  
-- JavaScript  
-- HTML  
-- CSS
-- 
-<p align="center">
-  🚀 Always learning and exploring new technologies to tackle environmental and social challenges 🌱
-</p>
+Interés en indicadores ecológicos, análisis de calidad ambiental y monitoreo de ecosistemas.
+
+📌 Desarrollo web con Django
+
+Creación de un prototipo de base de datos de plantas medicinales de la Caatinga, con información taxonómica, nombres populares, indicaciones terapéuticas e imágenes.
+
+Diseño de modelos, relaciones y administración personalizada para aplicaciones científicas.
+
+📌 Producción técnica y formación
+
+Autor del libro Introdução ao Web Scraping com Python, centrado en fundamentos, ética, parsing, Selenium y aplicaciones reales.
+
+Desarrollo de cuadernos prácticos de Machine Learning: regresión, clasificación, series temporales, abundancia microbiana, precios de automóviles y más.
+
+🛠️ Tecnologías y herramientas
+
+Lenguajes y frameworks
+
+Python • Django • JavaScript • HTML • CSS
+
+Web Scraping
+
+BeautifulSoup • Selenium • Playwright
+
+Machine Learning & NLP
+
+NumPy • Pandas • Scikit-Learn • Matplotlib • Transformers (Hugging Face)
+
+Bases de datos y otros
+
+SQLite • PostgreSQL • Git • Anaconda • Jupyter Notebook
+
+<p align="center"> 🚀 Apasionado por la ciencia, la tecnología y el desarrollo de soluciones que conectan datos, medio ambiente y sociedad. Siempre aprendiendo, siempre explorando 🌱 </p>
