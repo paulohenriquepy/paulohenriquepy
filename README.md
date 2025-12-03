@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Paulo Henrique 🌎</h1> <p align="center"> <strong>Biólogo | Científico de Datos | Desarrollador Django | Investigador Ambiental</strong> </p>
 🌱 Sobre mí
 
-Soy biólogo con doctorado en Ciencias Ambientales y actualmente curso un Máster Profesional en Data Science & Business Analytics. Mi trabajo se centra en integrar conocimientos ecológicos con herramientas de análisis de datos, programación y aprendizaje automático para comprender y abordar desafíos ambientales y sociales contemporáneos.
+Soy biólogo con doctorado en Ciencias Ambientales y Máster Profesional en Data Science & Business Analytics. Mi trabajo se centra en integrar conocimientos ecológicos con herramientas de análisis de datos, programación y aprendizaje automático para comprender y abordar desafíos ambientales y sociales contemporáneos.
 
 En los últimos años he desarrollado proyectos que combinan web scraping avanzado, machine learning, procesamiento de lenguaje natural (NLP) y desarrollo web con Django, siempre con un enfoque aplicado y orientado a problemas reales.
 
@@ -11,7 +11,7 @@ En los últimos años he desarrollado proyectos que combinan web scraping avanza
 
 Desarrollo de scrapers robustos (Selenium + BeautifulSoup) para medios de comunicación de EE.UU., China y Brasil.
 
-Aplicación de análisis de sentimientos (VADER, ClimateBERT, RoBERTa) para estudiar cómo distintos sistemas políticos representan la emergencia climática.
+Aplicación de análisis de sentimientos (VADER, ClimateBERT) para estudiar cómo distintos sistemas políticos representan la emergencia climática.
 
 Comparación entre discursos periodísticos en democracias y regímenes autoritarios.
 
